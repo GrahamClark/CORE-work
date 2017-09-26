@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GrahamClark/CORE-work#readme",
   "devDependencies": {
+    "@types/node": "^8.0.31",
     "typescript": "^2.5.2"
   }
 }
